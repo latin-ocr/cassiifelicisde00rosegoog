@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cassiifelicisde00rosegoog_0746.png"; bbox 0 0 2414 3924; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 1268 748 1392">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 304 1268 748 1392">
+     <span class='ocr_line' id='line_1_1' title="bbox 304 1268 748 1392; baseline -0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 304 1268 748 1392; x_wconf 81' lang='lat' dir='ltr'>CENSORINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 100 1581 1120 1666">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 100 1581 1120 1666">
+     <span class='ocr_line' id='line_1_2' title="bbox 100 1581 1120 1666; baseline -0.012 -1"><span class='ocrx_word' id='word_1_2' title='bbox 100 1581 189 1665; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 236 1581 359 1666; x_wconf 85' lang='lat' dir='ltr'><strong>DIE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 406 1582 682 1664; x_wconf 86' lang='lat' dir='ltr'><strong>NATALI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 727 1581 944 1665; x_wconf 86' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1117 1646 1120 1653; x_wconf 86' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 215 1766 998 1904">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 215 1766 998 1904">
+     <span class='ocr_line' id='line_1_3' title="bbox 215 1766 998 1904; baseline 0.003 -5"><span class='ocrx_word' id='word_1_7' title='bbox 215 1766 839 1904; x_wconf 57' lang='lat' dir='ltr'><strong>AD&#39;QJOAERELLIUM.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 993 1846 998 1859; x_wconf 93' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1212 3924">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1212 3924">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1212 3924; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1212 3924; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
